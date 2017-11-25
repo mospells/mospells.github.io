@@ -2,7 +2,7 @@
 layout: splash
 excerpt:
 header:
-  overlay_image: assets\images\tieandpronoun.jpg
+  overlay_image: /assets/images/tieandpronoun.jpg
   cta_label: "Like my pronoun pin?"
   cta_url: "https://www.etsy.com/listing/498635505/he-him-enamel-pronoun-pin?ref=listing-shop-header-0"
 
