@@ -1,7 +1,7 @@
 ---
 layout: splash
 gallery:
-  - url: assets\images\lifesentenceslandscapepubliclandsceSNFP.jpg
+  - url: /assets/images/lifesentenceslandscapepubliclandsceSNFP.jpg
     image_path: /assets/images/lifesentenceslandscapepubliclandsceSNFP.jpg
     alt: "Life Sentences"
     title: "Life Sentences Conference, 2017"
