@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research
+  - title: "Digital Humanities"
+    url: /digitalhuman/
+  - title: "Teaching with Archives"
+    url: /courses/
+  - title: "Trans Academic"
+    url: /transacademic/
+  - title: "Conference Posters"
+    url: /conferenceposters/
+  - title: "History Department at Johns Hopkins University"
+    url: http://history.jhu.edu/
