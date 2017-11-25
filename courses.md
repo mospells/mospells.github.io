@@ -2,7 +2,7 @@
 layout: splash
 excerpt:
 header:
-  overlay_image: assets\images\otherarchivepicture.JPG
+  overlay_image: /assets/images/otherarchivepicture.JPG
   caption: "Photo credit: **University of Baltimore Special Collections**"
 classes:
   - landing
