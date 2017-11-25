@@ -2,7 +2,7 @@
 layout: splash
 excerpt:
 header:
-  overlay_image: assets\images\codewords.png
+  overlay_image: \assets\images\codewords.png
 
 classes:
   - landing
