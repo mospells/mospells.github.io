@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 excerpt:
 header:
   overlay_image: /assets/images/otherarchivepicture.JPG
