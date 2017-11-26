@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 excerpt:
 header:
   overlay_image: /assets/images/codewords.png
@@ -7,7 +7,7 @@ header:
 classes:
   - landing
   - dark-theme
-
+author_profile: true
 ---
 
 # Digital Humanities

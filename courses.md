@@ -7,6 +7,7 @@ header:
 classes:
   - landing
   - dark-theme
+author_profile: true
 ---
 # Teaching in the Archives
 

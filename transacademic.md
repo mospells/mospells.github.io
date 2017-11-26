@@ -9,6 +9,7 @@ header:
 classes:
   - landing
   - dark-theme
+author_profile: true
 ---
 
 # Trans Academic
