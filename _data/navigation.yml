@@ -4,10 +4,10 @@ main:
     url: /about/
   - title: "Research"
     url: /research
-  - title: "Digital Humanities"
-    url: /digitalhuman/
   - title: "Teaching with Archives"
     url: /courses/
+  - title: "Digital Humanities"
+    url: /digitalhuman/
   - title: "Trans Academic"
     url: /transacademic/
   - title: "Conference Posters"
